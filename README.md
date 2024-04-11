@@ -1,2 +1,2 @@
 # Python-Numpy
-This Notebook contains all the tools needed to work with the Numpy Library in Python
+NumPy is a fundamental library for numerical computing in Python, providing support for large, multi-dimensional arrays and matrices. It offers a wide range of mathematical functions that operate efficiently on these arrays, making it essential for tasks like linear algebra, statistics, and signal processing. NumPy's array operations are optimized and vectorized, enabling faster computation compared to traditional Python lists.
